@@ -4,3 +4,6 @@ hihi ni hoa
 hello chumi
 coffee
 tea 
+
+
+這是一個新功能，我從 addbutton 這個分支上開發
